@@ -1,0 +1,1020 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Holiday Rental",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 Pro",
+            "screenshot": "screenshots\/home-2-pro.jpg",
+            "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1 Pro",
+            "screenshot": "screenshots\/about-1-pro.jpg",
+            "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms List 1 Pro",
+            "screenshot": "screenshots\/rooms-list-1-pro.jpg",
+            "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms List 2",
+            "screenshot": "screenshots\/rooms-list-2.jpg",
+            "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Room Detail 1 Pro",
+            "screenshot": "screenshots\/room-detail-1-pro.jpg",
+            "source": "templates\/room-detail-1-pro-8a0cbd96968855188478807f00e2818d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Room Detail 2",
+            "screenshot": "screenshots\/room-detail-2.jpg",
+            "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Room Detail 3",
+            "screenshot": "screenshots\/room-detail-3.jpg",
+            "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Amenities",
+            "screenshot": "screenshots\/amenities.jpg",
+            "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Things to Do",
+            "screenshot": "screenshots\/things-to-do.jpg",
+            "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Guestbook",
+            "screenshot": "screenshots\/guestbook.jpg",
+            "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1 Pro",
+            "screenshot": "screenshots\/contact-1-pro.jpg",
+            "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-5fef029758c2a3a2611691630a246fde.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-28bd251e2aab801cf8405601916a6d9b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "villa2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/villa2-500x282.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-1-pro-8a0cbd96968855188478807f00e2818d.json",
+                    "name": "Room Detail 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+                    "name": "Contact 1 Pro"
+                }
+            ],
+            "filesize": 226913,
+            "dimensions": [
+                1000,
+                563
+            ]
+        },
+        {
+            "filename": "david-emrich-771911-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/david-emrich-771911-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                },
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 314723,
+            "dimensions": [
+                1500,
+                1002
+            ]
+        },
+        {
+            "filename": "sylwia-pietruszka-218324-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/sylwia-pietruszka-218324-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 267646,
+            "dimensions": [
+                1800,
+                1202
+            ]
+        },
+        {
+            "filename": "adult-beach-blue-sky-709478.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/adult-beach-blue-sky-709478-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                },
+                {
+                    "source": "templates\/popup-28bd251e2aab801cf8405601916a6d9b.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 294006,
+            "dimensions": [
+                1280,
+                960
+            ]
+        },
+        {
+            "filename": "adult-architecture-building-949219.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/adult-architecture-building-949219-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 265003,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "sharon-garcia-417666-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/sharon-garcia-417666-unsplash-500x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+                    "name": "Guestbook"
+                },
+                {
+                    "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+                    "name": "Contact 1 Pro"
+                }
+            ],
+            "filesize": 45005,
+            "dimensions": [
+                500,
+                457
+            ]
+        },
+        {
+            "filename": "pexels-photo-572780.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/pexels-photo-572780-500x586.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-1-pro-8a0cbd96968855188478807f00e2818d.json",
+                    "name": "Room Detail 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                },
+                {
+                    "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+                    "name": "Contact 1 Pro"
+                },
+                {
+                    "source": "templates\/contact-2-5fef029758c2a3a2611691630a246fde.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 904986,
+            "dimensions": [
+                1920,
+                2249
+            ]
+        },
+        {
+            "filename": "alexandre-chambon-115386-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/alexandre-chambon-115386-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/contact-2-5fef029758c2a3a2611691630a246fde.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 1166336,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "nathan-fertig-249917-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/nathan-fertig-249917-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 356714,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "dan-gold-220226-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/dan-gold-220226-unsplash-500x282.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                }
+            ],
+            "filesize": 168432,
+            "dimensions": [
+                1000,
+                563
+            ]
+        },
+        {
+            "filename": "raphael-schaller-395352-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/raphael-schaller-395352-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 105827,
+            "dimensions": [
+                1000,
+                667
+            ]
+        },
+        {
+            "filename": "reynier-carl-440180-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/reynier-carl-440180-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/room-detail-1-pro-8a0cbd96968855188478807f00e2818d.json",
+                    "name": "Room Detail 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 348177,
+            "dimensions": [
+                1800,
+                1013
+            ]
+        },
+        {
+            "filename": "ialicante-mediterranean-homes-475803-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/ialicante-mediterranean-homes-475803-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 296332,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "nathan-fertig-24999917-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/nathan-fertig-24999917-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 348841,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "deborah-cortelazzi-615800-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/deborah-cortelazzi-615800-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 278735,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "sam-x-42020-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/sam-x-42020-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 151029,
+            "dimensions": [
+                1000,
+                667
+            ]
+        },
+        {
+            "filename": "ryan-christodoulou-627843-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/ryan-christodoulou-627843-unsplash-500x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                },
+                {
+                    "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+                    "name": "Guestbook"
+                },
+                {
+                    "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+                    "name": "Contact 1 Pro"
+                }
+            ],
+            "filesize": 244593,
+            "dimensions": [
+                1000,
+                1250
+            ]
+        },
+        {
+            "filename": "vadim-sherbakov-277610-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/vadim-sherbakov-277610-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 159958,
+            "dimensions": [
+                1000,
+                667
+            ]
+        },
+        {
+            "filename": "guilherme-stecanella-587579-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/guilherme-stecanella-587579-unsplash-500x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3c57e7f8de34b9444a2c56a44f93fff2.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+                    "name": "Guestbook"
+                },
+                {
+                    "source": "templates\/contact-1-pro-c78f1108f580661312c18a6118cd1741.json",
+                    "name": "Contact 1 Pro"
+                }
+            ],
+            "filesize": 56454,
+            "dimensions": [
+                500,
+                457
+            ]
+        },
+        {
+            "filename": "emily-wang-784820-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/emily-wang-784820-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                }
+            ],
+            "filesize": 132441,
+            "dimensions": [
+                1000,
+                667
+            ]
+        },
+        {
+            "filename": "lily-banse-365344-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/lily-banse-365344-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/room-detail-3-1c17b4d1b9947533bde8d4406fc0140f.json",
+                    "name": "Room Detail 3"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 262461,
+            "dimensions": [
+                1000,
+                667
+            ]
+        },
+        {
+            "filename": "sylvie-tittel-673971-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/sylvie-tittel-673971-unsplash-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-pro-5f9fba4136a7276d106bdfc7c3b5a7c4.json",
+                    "name": "About 1 Pro"
+                },
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/rooms-list-2-86805e82a3d4889aadcbb81cfcb6a7bc.json",
+                    "name": "Rooms List 2"
+                },
+                {
+                    "source": "templates\/amenities-f2d4432f915e11870e2d9f5b06b9fe46.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 250502,
+            "dimensions": [
+                2000,
+                1500
+            ]
+        },
+        {
+            "filename": "zaidan-adli-638636-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/zaidan-adli-638636-unsplash-1-500x323.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-2-a285f43d36022521c982daafa9599265.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 789861,
+            "dimensions": [
+                1800,
+                1164
+            ]
+        },
+        {
+            "filename": "italycoast1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/italycoast1-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms-list-1-pro-c85c30de5bdcdee769c296eea0f46802.json",
+                    "name": "Rooms List 1 Pro"
+                },
+                {
+                    "source": "templates\/contact-2-5fef029758c2a3a2611691630a246fde.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 331911,
+            "dimensions": [
+                1000,
+                750
+            ]
+        },
+        {
+            "filename": "arch-bridge-architecture-boats-705782.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/arch-bridge-architecture-boats-705782-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-detail-2-ed6cfd8dc2ab99202817f60d20534df5.json",
+                    "name": "Room Detail 2"
+                },
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 617384,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "nordwood-themes-524102-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/nordwood-themes-524102-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq-b560c5948976caca75a0c1be011db695.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 132382,
+            "dimensions": [
+                1000,
+                1500
+            ]
+        },
+        {
+            "filename": "andrew-stutesman-643239-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/andrew-stutesman-643239-unsplash-500x332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 436349,
+            "dimensions": [
+                1500,
+                997
+            ]
+        },
+        {
+            "filename": "architecture-building-canal-804954.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/architecture-building-canal-804954-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 193470,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "architecture-baroque-building-161101.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/architecture-baroque-building-161101-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 617686,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "beautiful-beauty-black-friday-972937.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/beautiful-beauty-black-friday-972937-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/things-to-do-ac233d8b2807150bf653159ee7eb2f51.json",
+                    "name": "Things to Do"
+                }
+            ],
+            "filesize": 366575,
+            "dimensions": [
+                1280,
+                1919
+            ]
+        },
+        {
+            "filename": "derek-thomson-528231-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-97\/wp-content\/uploads\/sites\/103\/2018\/10\/derek-thomson-528231-unsplash-500x470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guestbook-a3a2601d330f53d98e8b2272543ed912.json",
+                    "name": "Guestbook"
+                }
+            ],
+            "filesize": 149717,
+            "dimensions": [
+                1220,
+                1147
+            ]
+        }
+    ]
+}
